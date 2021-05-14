@@ -1,6 +1,6 @@
 hello wj
 hello wj
 hello wj
-hot-fix hello wj
+hot-fix hello wj hot-fix text2
 hot-fix test
 master text
